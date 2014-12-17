@@ -8,8 +8,8 @@
     "online": "/me CoTBot has awoken from a deep slumber and is now running",
 
 
-    "welcome": "/me Welcome %%NAME%%",
-    "welcomeback": "/me Welcome back, %%NAME%%",
+    "welcome": "/me Welcome @%%NAME%%",
+    "welcomeback": "/me Welcome back, @%%NAME%%",
     "songknown": "/me This song has been played %%PLAYS%% time(s) in the last %%TIMETOTAL%%, last play was %%LASTTIME%% ago.",
     "timelimit": "/me @%%NAME%%, your song is longer than %%MAXLENGTH%% seconds, please pick another song.",
     "permissionownsong": "/me @%%NAME%% has permission to play their own production!",

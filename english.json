@@ -5,7 +5,7 @@
     "datarestored": "Previously stored data successfully retrieved.",
     "greyuser": "Only bouncers and up can run a bot.",
     "bouncer": "The bot can't move people when it's run as a bouncer.",
-    "online": "/me CoTBot has awoken from a deep slumber and is now running",
+    "online": "/me CoTBot is now online, version 0.0.2",
 
 
     "welcome": "/me Welcome @%%NAME%%",

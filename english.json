@@ -75,7 +75,7 @@
     "inactivefor": "/me [@%%NAME%%] @%%USERNAME%% has been inactive for %%TIME%%.",
     "autowoot": "/me We recommend Tastyplug for autowooting: http://fungustime.pw/tastyplug",
     "brandambassador": "/me Only Res Djs and higher may play songs, if you would like to become staff apply at http://cotdj.com/forum/",
-    "hug": "/me @%%NAMETO%%, @%%NAMEFROM%% has given you a bear hug!",
+    "hug": "/me [@%%NAMETO%%], [@%%NAMEFROM%%] has given you a bear hug!",
     "bouncerplusrank": "/me [@%%NAME%%] You have to be manager or up to enable Bouncer+.",
     "chatcleared": "/me [@%%NAME%%] Cleared the chat.",
     "deletechat": "/me [@%%NAME%%] Cleared the chat of %%USERNAME%%.",

@@ -75,6 +75,7 @@
     "inactivefor": "/me [@%%NAME%%] @%%USERNAME%% has been inactive for %%TIME%%.",
     "autowoot": "/me We recommend Tastyplug for autowooting: http://fungustime.pw/tastyplug",
     "brandambassador": "/me Only Res Djs and higher may play songs, if you would like to become staff apply at http://cotdj.com/forum/",
+    "hug": "/me @%%NAMETO%%, @%%NAMEFROM%% has given you a bear hug!",
     "bouncerplusrank": "/me [@%%NAME%%] You have to be manager or up to enable Bouncer+.",
     "chatcleared": "/me [@%%NAME%%] Cleared the chat.",
     "deletechat": "/me [@%%NAME%%] Cleared the chat of %%USERNAME%%.",
@@ -147,6 +148,5 @@
     "website": "/me Please visit our website: %%LINK%%",
     "youtube": "/me [%%NAME%%] Subscribe to us on youtube: %%LINK%%",
     "support": "/me If you have any problems, please e-mail %%LINK%%",
-    "bodil40": "/me HAHAHAHEAHEAHEAHEHAEHAEHAHEAHEAHEHEAHEAHEAH!!!!!!!",
-    "songstatistics": "/me %%ARTIST%% - %%TITLE%%: %%WOOTS%%W/%%GRABS%%G/%%MEHS%%M."
+    "songstatistics": "/me %%ARTIST%% - %%TITLE%%: %%WOOTS%%Woots/%%GRABS%%Grabs/%%MEHS%%Mehs."
 }

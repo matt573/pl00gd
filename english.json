@@ -83,7 +83,7 @@
     "eatcookie": "/me eats a cookie.", 
     "nousercookie": "/em doesn't see %%NAME%% in room and eats cookie himself.", 
     "selfcookie": "/me @%%NAME%%, you're a bit greedy, aren't you? Giving yourself cookies, bah. Share some with others!", 
-    "eathug": "/me @%%NAME%% hugs a tree...hippie.", 
+    "eathug": "/me @%%NAMEFROM%%, hugs a tree...hippie.", 
     "nouserhug": "/em doesn't see @%%NAME%% in room and hugs a dog instead.", 
     "selfhug": "/me @%%NAME%% sits in the corner of a dim lit room and hugs him/her self while a single tear falls", 
     "throwshoe": "/me throws a shoe.", 
